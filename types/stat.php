@@ -27,7 +27,7 @@ include('inc/header_native.php')
                     </p>
                     </p>
                     <div class="block-content tab-content">
-                        <div class="tab-pane active" id="ADSOYAD" role="tabpanel">
+                        <div class="tab-pane active" id="qwlşkdkwqlkwşkqldwkqşkdlwqş" role="tabpanel">
                             <input class="form-control" type="text" id="as" placeholder="İD GİRİNİZ....."><br>
                             <div style="display: flex; flex-direction: row;">
                         </div>
